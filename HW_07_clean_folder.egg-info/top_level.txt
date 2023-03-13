@@ -1,0 +1,3 @@
+HW_07_clean_folder
+dist
+testapp

@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: HW-07-clean-folder
+Version: 1.0.0
+Summary: Package with scripts for folders handling and sorting
+Home-page: https://github.com/DenysPhV/HW_07_clean_folder
+Author: Denys Filichkin
+Author-email: philichkindenis1@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent

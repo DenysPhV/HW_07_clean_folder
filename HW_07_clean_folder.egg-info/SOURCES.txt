@@ -1,0 +1,11 @@
+.gitignore
+MANIFEST.in
+setup.py
+HW_07_clean_folder/__init__.py
+HW_07_clean_folder/clean.py
+HW_07_clean_folder.egg-info/PKG-INFO
+HW_07_clean_folder.egg-info/SOURCES.txt
+HW_07_clean_folder.egg-info/dependency_links.txt
+HW_07_clean_folder.egg-info/entry_points.txt
+HW_07_clean_folder.egg-info/top_level.txt
+testapp/Other/temp.py
