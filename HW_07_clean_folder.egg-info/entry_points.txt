@@ -1,2 +1,2 @@
 [console_scripts]
-clean_folder = HW_07_clean_folder.clean:main_script
+HW_07_clean_folder = HW_07_clean_folder.clean:main_script

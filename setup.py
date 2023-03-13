@@ -2,7 +2,7 @@ from setuptools import setup, find_namespace_packages
 
 setup(
     name='HW_07_clean_folder',
-    version='1.0.0',
+    version='1.0.1',
     description='Package with scripts for folders handling and sorting',
     url='https://github.com/DenysPhV/HW_07_clean_folder',
     author='Denys Filichkin',
